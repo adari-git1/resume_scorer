@@ -1,4 +1,4 @@
-# Find out the missing keywords in your resume from the job description. 
+# Missing keywords in your resume from the job description. 
 # Why?
 While I was applying for jobs every day, I would verify if my resume was a good fit for each position. Then I would compare my resume with the job description, but this process was often quite time-consuming. Thus, as a data engineer, I aimed to streamline this issue and developed a concept to automate it.
 
